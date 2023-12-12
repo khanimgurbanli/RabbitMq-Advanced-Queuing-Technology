@@ -1,0 +1,17 @@
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\Consumer.App_1.exe
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\Consumer.App_1.deps.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\Consumer.App_1.runtimeconfig.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\Consumer.App_1.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\Consumer.App_1.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.csproj.AssemblyReference.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.AssemblyInfoInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.AssemblyInfo.cs
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.csproj.CoreCompileInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.csproj.CopyComplete
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\refint\Consumer.App_1.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\Consumer.App_1.genruntimeconfig.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Consumer.App_1\obj\Debug\net7.0\ref\Consumer.App_1.dll

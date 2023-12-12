@@ -1,0 +1,17 @@
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\Direct_Exchange.Consumer.exe
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\Direct_Exchange.Consumer.deps.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\Direct_Exchange.Consumer.runtimeconfig.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\Direct_Exchange.Consumer.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\Direct_Exchange.Consumer.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.csproj.AssemblyReference.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.AssemblyInfoInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.AssemblyInfo.cs
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.csproj.CopyComplete
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\refint\Direct_Exchange.Consumer.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\Direct_Exchange.Consumer.genruntimeconfig.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Consumer\Direct_Exchange.Consumer\obj\Debug\net7.0\ref\Direct_Exchange.Consumer.dll

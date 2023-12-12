@@ -1,0 +1,17 @@
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\Direct_Exchange.Publisher.exe
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\Direct_Exchange.Publisher.deps.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\Direct_Exchange.Publisher.runtimeconfig.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\Direct_Exchange.Publisher.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\Direct_Exchange.Publisher.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.AssemblyInfoInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.AssemblyInfo.cs
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\refint\Direct_Exchange.Publisher.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.genruntimeconfig.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\ref\Direct_Exchange.Publisher.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.csproj.AssemblyReference.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\Direct_Exchange.Publisher\obj\Debug\net7.0\Direct_Exchange.Publisher.csproj.CopyComplete
