@@ -17,6 +17,7 @@ channel.ExchangeDeclare(
 
 for (int i = 0; i < 50; i++)
 {
+    await Task.Delay(200);
     //send message
     byte[] messages = Encoding.UTF8.GetBytes($"Pub/Sub-design-message {i}");
 
@@ -26,4 +27,4 @@ for (int i = 0; i < 50; i++)
         body: messages);
 }
 
-Console.ReadKey();
+Console.ReadLine();
