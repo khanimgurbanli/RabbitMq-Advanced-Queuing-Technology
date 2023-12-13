@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_Configuration.Consume
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pub-Sub-Design.Consumer", "Pub-Sub-Design.Consumer\Pub-Sub-Design.Consumer.csproj", "{072B5154-E2BE-4FD6-891A-A4A6C2F31997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work-Queue-Desing.Consumer", "Work-Queue-Desing.Consumer\Work-Queue-Desing.Consumer.csproj", "{9FCCC608-80C3-4820-A7FF-46FBD80E6C30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Work-Queue-Desing.Consumer", "Work-Queue-Desing.Consumer\Work-Queue-Desing.Consumer.csproj", "{9FCCC608-80C3-4820-A7FF-46FBD80E6C30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request-Response-Design.Consumer", "Request-Response-Design.Consumer\Request-Response-Design.Consumer.csproj", "{9013DE04-0DF8-4E63-8819-7C968948DB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Request-Response-Design.Consumer", "Request-Response-Design.Consumer\Request-Response-Design.Consumer.csproj", "{9013DE04-0DF8-4E63-8819-7C968948DB89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

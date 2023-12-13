@@ -1,0 +1,15 @@
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.exe
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.deps.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.runtimeconfig.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\bin\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.AssemblyInfoInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.AssemblyInfo.cs
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.csproj.CoreCompileInputs.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.sourcelink.json
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\refint\RabbitMQ.ESB.MassTransit.Shared.dll
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.pdb
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\RabbitMQ.ESB.MassTransit.Shared.genruntimeconfig.cache
+C:\Users\zariq\OneDrive\Resimler\Masaüstü\RabbitMq\RabbitMq.Publisher\RabbitMQ.ESB.MassTransit.Shared\obj\Debug\net7.0\ref\RabbitMQ.ESB.MassTransit.Shared.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y5vQSLQoXSOIh0YHIH5jy2ZYcaZAFIJpGx9AWzODRGU=",
+  "Source": "RabbitMQ.ESB.MassTransit.Worker.Service.Consumer",
+  "BasePath": "_content/RabbitMQ.ESB.MassTransit.Worker.Service.Consumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

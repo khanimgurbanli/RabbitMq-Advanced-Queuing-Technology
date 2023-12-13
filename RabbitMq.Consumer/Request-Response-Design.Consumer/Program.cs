@@ -43,7 +43,6 @@ consumer.Received += (model, ea) =>
         routingKey: ea.BasicProperties.ReplyTo,
         basicProperties: properties,
         body: responseMessage);
-        body: responseMessage);
 };
 
 Console.Read();

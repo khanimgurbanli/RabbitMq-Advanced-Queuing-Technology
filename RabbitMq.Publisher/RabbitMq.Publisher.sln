@@ -17,9 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P2P-Design.Publisher", "P2P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pub-Sub-Design.Publisher", "Pub-Sub-Design.Publisher\Pub-Sub-Design.Publisher.csproj", "{BEA94D2E-348E-4EA5-A917-B773D16ED20C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work-Queue-Design.Publisher", "Work-Queue-Design.Publisher\Work-Queue-Design.Publisher.csproj", "{14AFB66D-3F0E-4199-8024-21A59FC78E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Work-Queue-Design.Publisher", "Work-Queue-Design.Publisher\Work-Queue-Design.Publisher.csproj", "{14AFB66D-3F0E-4199-8024-21A59FC78E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request-Response-Design.Publisher", "Request-Response-Design.Publisher\Request-Response-Design.Publisher.csproj", "{8A4B408E-8D80-4152-AD79-AB058431EFE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Request-Response-Design.Publisher", "Request-Response-Design.Publisher\Request-Response-Design.Publisher.csproj", "{8A4B408E-8D80-4152-AD79-AB058431EFE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessTransit.Publisher", "MessTransit.Publisher\MessTransit.Publisher.csproj", "{AB8BAD8F-43DE-4F30-AD51-52ECBDFE402B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.ESB.MassTransit.Shared", "RabbitMQ.ESB.MassTransit.Shared\RabbitMQ.ESB.MassTransit.Shared.csproj", "{374BF6C3-48F1-4A54-97F1-13ABC4BC0638}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Consumer", "MassTransit.Consumer\MassTransit.Consumer.csproj", "{BC3A66BB-2C98-4198-A143-EBDA473AA2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.ESB.MassTransit.Worker.Service.Consumer", "RabbitMQ.ESB.MassTransit.Worker.Service.Consumer\RabbitMQ.ESB.MassTransit.Worker.Service.Consumer.csproj", "{E2D4F3CF-F584-48B7-B94C-274A8A5895C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.ESB.MassTransit.Worker.Service.Publisher", "RabbitMQ.ESB.MassTransit.Worker.Service.Publisher\RabbitMQ.ESB.MassTransit.Worker.Service.Publisher.csproj", "{68D7D154-692C-49B7-856C-A4129EA6AC93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{8A4B408E-8D80-4152-AD79-AB058431EFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A4B408E-8D80-4152-AD79-AB058431EFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A4B408E-8D80-4152-AD79-AB058431EFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8BAD8F-43DE-4F30-AD51-52ECBDFE402B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8BAD8F-43DE-4F30-AD51-52ECBDFE402B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8BAD8F-43DE-4F30-AD51-52ECBDFE402B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8BAD8F-43DE-4F30-AD51-52ECBDFE402B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374BF6C3-48F1-4A54-97F1-13ABC4BC0638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374BF6C3-48F1-4A54-97F1-13ABC4BC0638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374BF6C3-48F1-4A54-97F1-13ABC4BC0638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374BF6C3-48F1-4A54-97F1-13ABC4BC0638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3A66BB-2C98-4198-A143-EBDA473AA2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3A66BB-2C98-4198-A143-EBDA473AA2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3A66BB-2C98-4198-A143-EBDA473AA2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3A66BB-2C98-4198-A143-EBDA473AA2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D4F3CF-F584-48B7-B94C-274A8A5895C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D4F3CF-F584-48B7-B94C-274A8A5895C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D4F3CF-F584-48B7-B94C-274A8A5895C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D4F3CF-F584-48B7-B94C-274A8A5895C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D7D154-692C-49B7-856C-A4129EA6AC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D7D154-692C-49B7-856C-A4129EA6AC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D7D154-692C-49B7-856C-A4129EA6AC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D7D154-692C-49B7-856C-A4129EA6AC93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
