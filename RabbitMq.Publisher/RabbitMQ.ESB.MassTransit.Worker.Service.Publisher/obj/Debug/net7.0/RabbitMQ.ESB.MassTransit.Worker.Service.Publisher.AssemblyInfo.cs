@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQ.ESB.MassTransit.Worker.Service.Publisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f73e2e101432c85840c7ce13e691d7101663fbe1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitMQ.ESB.MassTransit.Worker.Service.Publisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQ.ESB.MassTransit.Worker.Service.Publisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
